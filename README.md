@@ -1,4 +1,4 @@
-此仓库的zh_CN本地化内容专为自定义yggdrasil服务器设计。
+此仓库的zh_CN本地化内容专为FClouds Skins设计。
 ---
 
 # Languages
